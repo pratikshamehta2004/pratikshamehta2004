@@ -32,5 +32,6 @@ If you’d like to collaborate or chat about anything related to **data science*
 
 **Email**: [pratikshamehta2004@gmail.com](mailto:pratikshamehta2004@gmail.com)  
 **LinkedIn**: [linkedin.com/in/pratiksha-mehta-b77841290/](https://www.linkedin.com/in/pratiksha-mehta-b77841290/)
+**Github**: [https://github.com/pratikshamehta2004](https://github.com/pratikshamehta2004)
 
 Let's build something amazing together! 🚀
