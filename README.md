@@ -1,8 +1,8 @@
 # Hello, I'm Pratiksha Mehta
 
-- As a **Data Science professional**, I’m passionate about leveraging **machine learning**, **data analytics**, and **automation** to tackle complex problems and drive impactful solutions.
+- As a **Data Science enthusiast**, I thrive on applying **machine learning**, **data analytics**, and **financial intelligence** to solve complex challenges and create meaningful impact.
 
-- I’m currently focused on developing **full-stack projects**, exploring **business and finance analytics**.
+- I’m currently focused on developing **full-stack projects**, **business and finance analytics projects **.
 
 - My mission is to transform ideas into tangible outcomes through a blend of **data-driven insights**, **code**, and a touch of **creativity**.
 
