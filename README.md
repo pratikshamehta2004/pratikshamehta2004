@@ -31,6 +31,6 @@
 If you’d like to collaborate or chat about anything related to **data science**, **machine learning**, or **business analytics**, feel free to reach out!
 
 **Email**: [pratikshamehta2004@gmail.com](mailto:pratikshamehta2004@gmail.com)  
-**LinkedIn**: [Pratiksha Mehta]([https://www.linkedin.com/in/pratiksha-mehta](https://www.linkedin.com/in/pratiksha-mehta-b77841290/))  
+**LinkedIn**: [https://www.linkedin.com/in/pratiksha-mehta-b77841290/]
 
 Let's build something amazing together! 🚀
