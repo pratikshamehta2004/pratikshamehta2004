@@ -30,8 +30,8 @@
 
 If you’d like to collaborate or chat about anything related to **data science**, **machine learning**, or **business analytics**, feel free to reach out!
 
-**Email**: [pratikshamehta2004@gmail.com](mailto:pratikshamehta2004@gmail.com)  
-**LinkedIn**: [linkedin.com/in/pratiksha-mehta-b77841290/](https://www.linkedin.com/in/pratiksha-mehta-b77841290/)
-**Github**: [https://github.com/pratikshamehta2004](https://github.com/pratikshamehta2004)
+- **Email**: [pratikshamehta2004@gmail.com](mailto:pratikshamehta2004@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/pratiksha-mehta-b77841290](https://www.linkedin.com/in/pratiksha-mehta-b77841290)  
+- **GitHub**: [github.com/pratikshamehta2004](https://github.com/pratikshamehta2004)
 
 Let's build something amazing together! 🚀
