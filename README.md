@@ -6,7 +6,7 @@
 
 - My mission is to transform ideas into tangible outcomes through a blend of **data-driven insights**, **code**, and a touch of **creativity**.
 
-<h2 align="left">Tech Use</h2>
+<h2 align="left">Tech Usage</h2>
 
 ###
 
